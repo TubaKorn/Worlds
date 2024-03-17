@@ -1,0 +1,14 @@
+{
+  "title": "Vivis-World",
+  "id": "vivis-world",
+  "system": "pf2e",
+  "joinTheme": "default",
+  "coreVersion": "11.315",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "systemVersion": "5.13.2",
+  "lastPlayed": "Sun Mar 10 2024 18:36:39 GMT+0100 (Mitteleuropäische Normalzeit)",
+  "playtime": 2127
+}
