@@ -1,0 +1,28 @@
+2024/01/07-23:00:21.437 4044 Recovering log #22
+2024/01/07-23:00:21.447 4044 Level-0 table #27: started
+2024/01/07-23:00:21.477 4044 Level-0 table #27: 976895 bytes OK
+2024/01/07-23:00:21.486 4044 Delete type=0 #22
+2024/01/07-23:00:21.486 4044 Delete type=3 #15
+2024/01/07-23:00:25.995 3df8 Compacting 1@0 + 2@1 files
+2024/01/07-23:00:26.076 3df8 Generated table #29@0: 2357 keys, 2127220 bytes
+2024/01/07-23:00:26.123 3df8 Generated table #30@0: 2040 keys, 1483257 bytes
+2024/01/07-23:00:26.123 3df8 Compacted 1@0 + 2@1 files => 3610477 bytes
+2024/01/07-23:00:26.126 3df8 compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/01/07-23:00:26.126 3df8 Delete type=2 #24
+2024/01/07-23:00:26.127 3df8 Delete type=2 #25
+2024/01/07-23:00:26.127 3df8 Delete type=2 #27
+2024/01/07-23:01:47.025 3df8 Level-0 table #32: started
+2024/01/07-23:01:47.143 3df8 Level-0 table #32: 3882090 bytes OK
+2024/01/07-23:01:47.146 3df8 Delete type=0 #28
+2024/01/07-23:01:58.742 3df8 Level-0 table #34: started
+2024/01/07-23:01:58.822 3df8 Level-0 table #34: 2578060 bytes OK
+2024/01/07-23:01:58.827 3df8 Delete type=0 #31
+2024/01/07-23:02:00.910 3df8 Compacting 2@0 + 2@1 files
+2024/01/07-23:02:01.009 3df8 Generated table #35@0: 2350 keys, 2127459 bytes
+2024/01/07-23:02:01.069 3df8 Generated table #36@0: 2047 keys, 1495769 bytes
+2024/01/07-23:02:01.069 3df8 Compacted 2@0 + 2@1 files => 3623228 bytes
+2024/01/07-23:02:01.072 3df8 compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/01/07-23:02:01.074 3df8 Delete type=2 #29
+2024/01/07-23:02:01.075 3df8 Delete type=2 #30
+2024/01/07-23:02:01.076 3df8 Delete type=2 #32
+2024/01/07-23:02:01.077 3df8 Delete type=2 #34

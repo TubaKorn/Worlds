@@ -1,0 +1,25 @@
+2024/01/07-23:49:01.553 41e0 Recovering log #16
+2024/01/07-23:49:01.571 41e0 Level-0 table #19: started
+2024/01/07-23:49:01.613 41e0 Level-0 table #19: 1210500 bytes OK
+2024/01/07-23:49:01.630 41e0 Delete type=0 #16
+2024/01/07-23:49:01.631 41e0 Delete type=3 #14
+2024/01/07-23:49:10.465 42c0 Moved #19 to level-1 1210500 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2024/01/07-23:49:42.975 42c0 Level-0 table #22: started
+2024/01/07-23:49:42.980 42c0 Level-0 table #22: 1451 bytes OK
+2024/01/07-23:49:42.982 42c0 Delete type=0 #20
+2024/01/07-23:49:43.003 42c0 Manual compaction at level-0 from '!scenes!2dPSC6xPUlcTaH36' @ 72057594037927935 : 1 .. '!scenes.walls!zYICLNCbTBtihiA6.zwB2JgDUwst5fY8F' @ 0 : 0; will stop at '!scenes!VZvgcjjylxXVzFdt' @ 13282 : 1
+2024/01/07-23:49:43.003 42c0 Compacting 1@0 + 1@1 files
+2024/01/07-23:49:43.035 42c0 Generated table #23@0: 1332 keys, 837218 bytes
+2024/01/07-23:49:43.035 42c0 Compacted 1@0 + 1@1 files => 837218 bytes
+2024/01/07-23:49:43.036 42c0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/07-23:49:43.036 42c0 Delete type=2 #19
+2024/01/07-23:49:43.036 42c0 Delete type=2 #22
+2024/01/07-23:49:43.043 42c0 Manual compaction at level-0 from '!scenes!VZvgcjjylxXVzFdt' @ 13282 : 1 .. '!scenes.walls!zYICLNCbTBtihiA6.zwB2JgDUwst5fY8F' @ 0 : 0; will stop at (end)
+2024/01/07-23:49:43.053 42c0 Manual compaction at level-1 from '!scenes!2dPSC6xPUlcTaH36' @ 72057594037927935 : 1 .. '!scenes.walls!zYICLNCbTBtihiA6.zwB2JgDUwst5fY8F' @ 0 : 0; will stop at '!scenes.tokens.delta.items!xw6XlQkBcX8jmZQr.ljWLT5FxBC2oqfwf.ljWLT5FxBC2oqfwf.ziYf9a4XTKaVzEVj' @ 12457 : 1
+2024/01/07-23:49:43.053 42c0 Compacting 1@1 + 1@2 files
+2024/01/07-23:49:43.103 42c0 Generated table #24@1: 6683 keys, 1228732 bytes
+2024/01/07-23:49:43.103 42c0 Compacted 1@1 + 1@2 files => 1228732 bytes
+2024/01/07-23:49:43.106 42c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/07-23:49:43.106 42c0 Delete type=2 #17
+2024/01/07-23:49:43.107 42c0 Delete type=2 #23
+2024/01/07-23:49:43.161 42c0 Manual compaction at level-1 from '!scenes.tokens.delta.items!xw6XlQkBcX8jmZQr.ljWLT5FxBC2oqfwf.ljWLT5FxBC2oqfwf.ziYf9a4XTKaVzEVj' @ 12457 : 1 .. '!scenes.walls!zYICLNCbTBtihiA6.zwB2JgDUwst5fY8F' @ 0 : 0; will stop at (end)

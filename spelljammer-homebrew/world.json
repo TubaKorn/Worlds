@@ -1,0 +1,16 @@
+{
+  "title": "Spelljammer Homebrew",
+  "version": "1.0.0",
+  "system": "pf2e",
+  "coreVersion": "11.315",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "5.11.5",
+  "id": "spelljammer-homebrew",
+  "compatibility": {
+    "verified": "11.315",
+    "minimum": "11"
+  },
+  "lastPlayed": "Sun Jan 07 2024 23:49:42 GMT+0100 (Mitteleuropäische Normalzeit)",
+  "playtime": 33
+}
