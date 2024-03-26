@@ -1,0 +1,14 @@
+{
+  "title": "Quest for the frozen Throne",
+  "id": "quest-for-the-frozen-throne",
+  "system": "pf2e",
+  "joinTheme": "default",
+  "coreVersion": "11.315",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "systemVersion": "5.13.2",
+  "lastPlayed": "Mon Mar 25 2024 00:08:14 GMT+0100 (Mitteleuropäische Normalzeit)",
+  "playtime": 47939
+}

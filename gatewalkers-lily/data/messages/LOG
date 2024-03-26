@@ -1,3 +1,29 @@
-2024/03/03-19:05:19.330 3a4 Recovering log #103
-2024/03/03-19:05:19.343 3a4 Delete type=0 #103
-2024/03/03-19:05:19.344 3a4 Delete type=3 #101
+2024/03/24-19:08:12.371 3140 Recovering log #108
+2024/03/24-19:08:12.381 3140 Level-0 table #110: started
+2024/03/24-19:08:12.413 3140 Level-0 table #110: 889218 bytes OK
+2024/03/24-19:08:12.432 3140 Delete type=0 #108
+2024/03/24-19:08:12.434 3140 Delete type=3 #107
+2024/03/24-19:10:19.319 a88 Compacting 1@0 + 2@1 files
+2024/03/24-19:10:19.444 a88 Generated table #112@0: 972 keys, 2120974 bytes
+2024/03/24-19:10:19.545 a88 Generated table #113@0: 960 keys, 2120782 bytes
+2024/03/24-19:10:19.578 a88 Generated table #114@0: 142 keys, 304739 bytes
+2024/03/24-19:10:19.578 a88 Compacted 1@0 + 2@1 files => 4546495 bytes
+2024/03/24-19:10:19.581 a88 compacted to: files[ 0 3 0 0 0 0 0 ]
+2024/03/25-00:07:24.007 a88 Level-0 table #116: started
+2024/03/25-00:07:24.041 a88 Level-0 table #116: 1232418 bytes OK
+2024/03/25-00:07:24.044 a88 Delete type=2 #105
+2024/03/25-00:07:24.048 a88 Delete type=2 #106
+2024/03/25-00:07:24.053 a88 Delete type=2 #110
+2024/03/25-00:07:24.055 a88 Delete type=0 #111
+2024/03/25-00:07:24.120 a88 Manual compaction at level-0 from '!messages!01O78q9DEP4Wnq2A' @ 72057594037927935 : 1 .. '!messages!zzsPnwDewCzl0MpV' @ 0 : 0; will stop at '!messages!zx8Eq6gmMkfnwA5d' @ 2325 : 1
+2024/03/25-00:07:24.120 a88 Compacting 1@0 + 3@1 files
+2024/03/25-00:07:24.259 a88 Generated table #117@0: 968 keys, 2123962 bytes
+2024/03/25-00:07:24.351 a88 Generated table #118@0: 938 keys, 2121283 bytes
+2024/03/25-00:07:24.406 a88 Generated table #119@0: 667 keys, 1497415 bytes
+2024/03/25-00:07:24.407 a88 Compacted 1@0 + 3@1 files => 5742660 bytes
+2024/03/25-00:07:24.409 a88 compacted to: files[ 0 3 0 0 0 0 0 ]
+2024/03/25-00:07:24.410 a88 Delete type=2 #112
+2024/03/25-00:07:24.413 a88 Delete type=2 #113
+2024/03/25-00:07:24.414 a88 Delete type=2 #114
+2024/03/25-00:07:24.415 a88 Delete type=2 #116
+2024/03/25-00:07:24.425 a88 Manual compaction at level-0 from '!messages!zx8Eq6gmMkfnwA5d' @ 2325 : 1 .. '!messages!zzsPnwDewCzl0MpV' @ 0 : 0; will stop at (end)

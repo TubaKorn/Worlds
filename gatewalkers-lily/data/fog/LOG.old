@@ -1,14 +1,3 @@
-2024/03/03-19:04:39.226 2410 Recovering log #88
-2024/03/03-19:04:39.241 2410 Delete type=0 #88
-2024/03/03-19:04:39.241 2410 Delete type=3 #86
-2024/03/03-19:05:15.021 10d4 Level-0 table #92: started
-2024/03/03-19:05:15.021 10d4 Level-0 table #92: 0 bytes OK
-2024/03/03-19:05:15.024 10d4 Delete type=0 #90
-2024/03/03-19:05:15.031 10d4 Manual compaction at level-0 from '!fog!0jT6BQBoiwjQSYyL' @ 72057594037927935 : 1 .. '!fog!y2xdSofBIbkyuwzG' @ 0 : 0; will stop at '!fog!tsY5y96ajOWjlEsY' @ 333 : 1
-2024/03/03-19:05:15.031 10d4 Compacting 1@0 + 1@1 files
-2024/03/03-19:05:15.040 10d4 Generated table #93@0: 36 keys, 403694 bytes
-2024/03/03-19:05:15.040 10d4 Compacted 1@0 + 1@1 files => 403694 bytes
-2024/03/03-19:05:15.043 10d4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/03/03-19:05:15.045 10d4 Delete type=2 #85
-2024/03/03-19:05:15.047 10d4 Delete type=2 #87
-2024/03/03-19:05:15.214 10d4 Manual compaction at level-0 from '!fog!tsY5y96ajOWjlEsY' @ 333 : 1 .. '!fog!y2xdSofBIbkyuwzG' @ 0 : 0; will stop at (end)
+2024/03/03-19:05:19.425 3a4 Recovering log #91
+2024/03/03-19:05:19.440 3a4 Delete type=0 #91
+2024/03/03-19:05:19.441 3a4 Delete type=3 #89
