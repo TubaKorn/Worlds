@@ -1,0 +1,7 @@
+2024/06/18-22:05:36.110 1eb4 Recovering log #42
+2024/06/18-22:05:36.118 1eb4 Delete type=0 #42
+2024/06/18-22:05:36.118 1eb4 Delete type=3 #41
+2024/06/18-22:14:26.535 360c Level-0 table #46: started
+2024/06/18-22:14:26.535 360c Level-0 table #46: 0 bytes OK
+2024/06/18-22:14:26.537 360c Delete type=0 #44
+2024/06/18-22:14:26.542 360c Manual compaction at level-0 from '!items!A1l5WLHmEtRX2ujp' @ 72057594037927935 : 1 .. '!items!cwOy3F1Sh183oomI' @ 0 : 0; will stop at (end)
